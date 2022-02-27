@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on self-developmental projects.
 - 🌱 I’m currently learning from the github community and I believe everyone inspires us to learn something new!!
-- 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I am into outdoor sports 🏊🏽 ⚽ 🏓 ⛰️ and abstract art 🎨
 
