@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design, good coding practices, and learning to keep up with AI/ML developments.**
 
-- 👯 I’m looking to collaborate and add more features on [Therapy App](https://zen-therapy.vercel.app/)
+- 👯 I’m looking to collaborate and add more features to [Therapy App](https://zen-therapy.vercel.app/)
 
 - 🤝 I'm working on training models (hugging face) and comparing them with the baseline [Grammar Error Detection and Correction](https://huggingface.co/spaces/NicoleMathias/grammer-error-correction)
 
