@@ -12,7 +12,7 @@
 - 💬 Ask me about **full-stack development (react, java), python, SQL, system design, ML.**
 
 - 📫 How to reach me **Will update soon...**
-- 
+  
 - ⚡ Fun fact **will update soon....hahah**
 
 <h3 align="left">Connect with me:</h3>
