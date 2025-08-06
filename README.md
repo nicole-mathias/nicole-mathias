@@ -1,24 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nicole Mathias</h1>
-<h3 align="center">AI/ML SOftware Engineer</h3>
+<h3 align="center">AI/ML Software Engineer</h3>
 
 - 🔭 I’m currently working on [Currency Rate prediction](currency-prediction.up.railway.app/)
 
-- 🌱 I’m currently learning **System Design, good coding practices, and learning to keep up with AI/ML developments.**
+- 🌱 I’m currently learning **System Design, good coding practices, and to keep up with AI/ML developments.**
 
-- 👯 I’m looking to collaborate and add more features to [Therapy App](https://zen-therapy.vercel.app/)
+- 👯 I’m looking to collaborate and add more features to: [Therapy App](https://zen-therapy.vercel.app/)
 
-- 🤝 I'm working on training models (hugging face) and comparing them with the baseline [Grammar Error Detection and Correction](https://huggingface.co/spaces/NicoleMathias/grammer-error-correction)
-
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+- 🤝 I'm working on training models (hugging face) and comparing them with the baseline models: [Grammar Error Detection and Correction](https://huggingface.co/spaces/NicoleMathias/grammer-error-correction)
 
 - 💬 Ask me about **full-stack development (react, java), python, SQL, system design, ML.**
 
-- 📫 How to reach me **-**
-
-- 📄 Know about my experiences [coming soon...](coming soon...)
-
+- 📫 How to reach me **Will update soon...**
+- 
 - ⚡ Fun fact **will update soon....hahah**
 
 <h3 align="left">Connect with me:</h3>
